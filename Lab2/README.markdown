@@ -6,6 +6,6 @@
 
 ---
 
-[Image Filtering](https://velog.io/@chunjakim/Image-Filtering){:target="\_blank"}
+[Image Filtering](https://velog.io/@chunjakim/Image-Filtering)
 
-[Convolution & Correlation](https://velog.io/@chunjakim/Convolution-Correlation){:target="\_blank"}
+[Convolution & Correlation](https://velog.io/@chunjakim/Convolution-Correlation)

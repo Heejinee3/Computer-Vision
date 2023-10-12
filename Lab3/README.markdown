@@ -6,18 +6,18 @@
 
 ---
 
-[Bayer Image](https://velog.io/@chunjakim/Bayer-Image){:target="\_blank"}
+[Bayer Image](https://velog.io/@chunjakim/Bayer-Image)
 
-[Image Interpolation](https://velog.io/@chunjakim/Image-Interpolation){:target="\_blank"}
+[Image Interpolation](https://velog.io/@chunjakim/Image-Interpolation)
 
-[Normalized Eight-Point Algorithm](https://velog.io/@chunjakim/Normalized-Eight-Point-Algorithm){:target="\_blank"}
+[Normalized Eight-Point Algorithm](https://velog.io/@chunjakim/Normalized-Eight-Point-Algorithm)
 
-[Fundamental Matrix](https://velog.io/@chunjakim/Fundamental-Matrix){:target="\_blank"}
+[Fundamental Matrix](https://velog.io/@chunjakim/Fundamental-Matrix)
 
-[Stereo Image Rectification](https://velog.io/@chunjakim/Stereo-Image-Rectification){:target="\_blank"}
+[Stereo Image Rectification](https://velog.io/@chunjakim/Stereo-Image-Rectification)
 
-[Cost Volume](https://velog.io/@chunjakim/Cost-Volume){:target="\_blank"}
+[Cost Volume](https://velog.io/@chunjakim/Cost-Volume)
 
-[NCC](https://velog.io/@chunjakim/Normalized-Cross-CorrelationNCC){:target="\_blank"}
+[NCC](https://velog.io/@chunjakim/Normalized-Cross-CorrelationNCC)
 
-[Disparity Map](https://velog.io/@chunjakim/Disparity-Map){:target="\_blank"}
+[Disparity Map](https://velog.io/@chunjakim/Disparity-Map)
