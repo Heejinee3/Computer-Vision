@@ -6,7 +6,7 @@
 
 ---
 
-The objective of these labs is to provide a comprehensive introduction to computer vision, covering the foundations of camera image formation, geometric optics, feature detection, stereo matching, motion estimation, image recognition, scene understanding, etc. The labs aim to foster an understanding of intuitions and mathematics related to various computer vision applications.
+The objective of these labs is to provide a comprehensive introduction to low-level computer vision, covering foundational concepts such as camera image formation, geometric optics, feature detection, stereo matching, motion estimation, image recognition, scene understanding, and more. These labs aim to help develop an intuitive understanding and mathematical proficiency in various computer vision applications.
 
 <br>
 

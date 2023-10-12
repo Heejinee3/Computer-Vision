@@ -1,0 +1,23 @@
+### **Lab3**
+
+<br>
+
+#### **Glossary**
+
+---
+
+[Bayer Image](https://velog.io/@chunjakim/Bayer-Image){:target="\_blank"}
+
+[Image Interpolation](https://velog.io/@chunjakim/Image-Interpolation){:target="\_blank"}
+
+[Normalized Eight-Point Algorithm](https://velog.io/@chunjakim/Normalized-Eight-Point-Algorithm){:target="\_blank"}
+
+[Fundamental Matrix](https://velog.io/@chunjakim/Fundamental-Matrix){:target="\_blank"}
+
+[Stereo Image Rectification](https://velog.io/@chunjakim/Stereo-Image-Rectification){:target="\_blank"}
+
+[Cost Volume](https://velog.io/@chunjakim/Cost-Volume){:target="\_blank"}
+
+[NCC](https://velog.io/@chunjakim/Normalized-Cross-CorrelationNCC){:target="\_blank"}
+
+[Disparity Map](https://velog.io/@chunjakim/Disparity-Map){:target="\_blank"}
